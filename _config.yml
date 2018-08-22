@@ -78,3 +78,10 @@ tag_archive:
   path: /tags/
 
 include: ["_pages"]
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-124444143-1"
+    anonymize_ip: false # default
+
