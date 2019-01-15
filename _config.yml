@@ -86,3 +86,9 @@ analytics:
     tracking_id: "UA-124444143-1"
     anonymize_ip: false # default
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "vinicius-costa"
+
+
